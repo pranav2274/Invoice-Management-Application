@@ -1,0 +1,93 @@
+body {
+  background: #283d4a;
+  font-family: Roboto;
+  font-size: 80%;
+  line-height: 1em;
+  margin: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.header{
+  background-color: #2d4250;
+  color: white;
+  display :flex ;
+   justify-content: space-between;
+   padding: 10px 0 30px 20px;
+}
+
+/* Navbar Components */
+.navbar{
+  padding-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+/* .btn{
+  border-radius: 10px;
+  width: 72px;
+  height: 38px;
+  display: flex;
+  border-radius: 10px;
+} */
+.left{
+  padding-left: 1rem;
+}
+.right{
+  padding-right: 1rem;
+}
+
+.search-box{
+  margin-left: 45%;
+    padding-top: 5rem;
+    position: absolute;
+    /* transform: translateY(-50%); */
+    width: 12rem;
+    border-radius: 10px;
+    background-color: white;
+    padding: 8px;
+    /* border: solid 1px; */   
+}
+/* Table */
+.table{
+  padding-top: 2rem;
+}
+
+/* Dilog Boxes */
+
+.adsearchDialogBox{
+  background-color: #263845 ;
+  color: white;
+}
+.addDialogBox{
+  background-color: #263845 ;
+  color: white;
+  width: 68rem;
+}
+.editDialogBox{
+  background-color: #263845 ;
+  color: white;
+}
+#Edt{
+  background-color: white; 
+  border-radius: 7px;
+  margin-bottom: 28px;
+  margin-inline: 12px;
+}
+
+#Id{
+  background-color: white; 
+  border-radius: 7px;
+  margin-bottom: 28px;
+  margin-inline: 12px;
+  text-align: center;
+}
+
+#ads{
+  background-color: white; 
+  border-radius: 7px;
+  margin-bottom: 24px;
+  margin-inline: 12px;
+}

@@ -12,31 +12,35 @@ Looking after the entire process of getting the cash inflow.
 Help the company get paid for the services and products supplied.
 Build a Machine Learning Model to predict the payment date of an invoice when it gets created in the system.
 Build a full stack Invoice Management Application
+
+
 🔥 Features
 Machine Learning Model to predict the payment date of an invoice when it gets created in the system.
 A Receivables Dashboard to visualize data in the form of grids.
 ADD, EDIT and DELETE functionalities.
 Easy naviagtion implemented through pagination.
+
+
 💡 Technologies Used
-Machine Learning
-Pandas
-Numpy
-Matplotlib
-Scikit-learn
-Frontend
-HTML
-CSS
-JavaScript
-JQuery
-Backend
-Java
-Servlets
-JDBC
-JSP
-MySQL
+   Pandas
+   Numpy
+   Matplotlib
+   Scikit-learn
+
+ Frontend
+  React Js
+  JavaScript
+  JQuery
+ 
+ Backend
+  Java
+  Servlets
+  JDBC
+   MySQL
+
 Tools
-Eclipse IDE
-TomCat Server
-Postman API Testing Tools
-SQL Yog
-Jupyter Notebook
+  Eclipse IDE
+  TomCat Server
+  Postman API Testing Tools
+  SQL Yog
+ 
